@@ -1,3 +1,3 @@
-# Django Project Template
+# Django Testing
 
 Django project template
