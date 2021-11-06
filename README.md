@@ -1,3 +1,3 @@
 # Django Testing
 
-Django project template
+A simple introduction to Testing
